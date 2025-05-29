@@ -54,11 +54,6 @@ python todo_app.py
 Pull requests are welcome. For major changes, please open an issue first.
 
 📄 License
-```sql
-
----
-
-### 🚀 **Here’s Your MIT License (LICENSE)**  
 ```markdown
 MIT License
 
