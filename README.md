@@ -57,7 +57,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ```markdown
 MIT License
 
-Copyright (c) 2025 Varun-Wagle
+Copyright (c) 2025 Varun Wagle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
