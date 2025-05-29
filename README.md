@@ -21,14 +21,14 @@ Designed to **manage tasks**, **track completion**, and **store data user-specif
 ### 🔸 Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-app-python.git
+git clone https://github.com/varun-wagle/todo-app-python.git
 cd todo-app-python
-
+```
 
 2. Run the app:
 ```bash
 python todo_app.py
-
+```
 
 🖥️ How It Works
 🔹 On startup, the app asks for your username and loads tasks from tasks_{username}.txt.
@@ -62,7 +62,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ```markdown
 MIT License
 
-Copyright (c) 2025 YOUR_NAME
+Copyright (c) 2025 Varun-Wagle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -81,3 +81,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+```
