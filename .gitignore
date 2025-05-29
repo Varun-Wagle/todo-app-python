@@ -1,2 +1,31 @@
 tasks_VarunW.txt
 doneTasks_VarunW.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Streamlit secrets (if using)
+.streamlit/secrets.toml
+
+# Local environment
+.env
+venv/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtualenv
+*.egg-info/
+dist/
+build/
+
+# User-specific files
+tasks_*.txt
+doneTasks_*.txt
