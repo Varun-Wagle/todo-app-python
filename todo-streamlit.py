@@ -3,6 +3,25 @@ import os
 import hashlib
 from datetime import datetime
 
+#----------- Fonts Use -----------
+
+st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap');
+
+    /* General UI Font: Raleway */
+    html, body, [class*="css"] {
+        font-family: 'Raleway', sans-serif;
+    }
+
+    /* Input Fields Font: Open Sans */
+    input, textarea {
+        font-family: 'Open Sans', sans-serif !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+
 #----------- Utilities -----------
 def get_user_file(username):
     return f"{username}_login.txt"
